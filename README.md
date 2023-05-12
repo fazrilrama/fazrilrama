@@ -1,6 +1,6 @@
 ### Hi Folks! 👋
 
-- 🔭 I’m currently working on Software Developer | Programmer
+- 🔭 I’m currently working on Software Developer | Programmer | Fullstack Developer
 - 🌱 I’m currently learning Cloud Engineer
 - 👯 I’m looking to collaborate on 
 - 💬 Ask me about ...
