@@ -3,7 +3,7 @@
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
+	<img src="https://komarev.com/ghpvc/?username=fazrilrama&label=Profile%20views&color=0047AB&style=plastic?" alt="fazrilrama" height=25px, width=160px/> 
 
 </p>
 
@@ -14,7 +14,7 @@
 <br>
 
 - 🔭 I’m currently working on Software Developer | Programmer | Fullstack Developer.
-- 🌱 I’m currently learning Cloud Engineer.
+<!-- - 🌱 I’m currently learning Cloud Engineer. -->
 - 💻 I want to collaborate on technology.
 - 🎸 I Like to playing Guitar.
   <br/> <br/>
