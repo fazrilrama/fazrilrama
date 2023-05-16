@@ -14,9 +14,9 @@
 <br>
 
 - 🔭 I’m currently working on Software Developer | Programmer | Fullstack Developer.
-<!-- - 🌱 I’m currently learning Cloud Engineer. -->
 - 💻 I want to collaborate on technology.
 - 🎸 I Like to playing Guitar.
+<!-- - 🌱 I’m currently learning Cloud Engineer. -->
   <br/> <br/>
 
 ## <picture> </picture> Connect with me
