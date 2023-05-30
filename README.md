@@ -13,11 +13,11 @@
 
 <br>
 
-- 🔭 I’m currently working on Software Developer | Programmer | Fullstack Developer.
+- 🔭 I’m currently working on Full Stack Developer | IT Programmer | Software Developer.
+- 🌱 I’m currently learning Cyber Security.
 - 💻 I want to collaborate on technology.
 - 🎸 I Like to playing Guitar.
   <br/> <br/>
-  <!-- - 🌱 I’m currently learning Cloud Computing And Cyber Security. -->
 
 ## <picture> </picture> Connect with me
 
