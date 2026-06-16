@@ -82,26 +82,6 @@ func main() {
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 
----s
-
-## `git stats`
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fazrilrama&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fazrilrama&layout=compact&theme=github_dark&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=fazrilrama&theme=github-dark-blue&hide_border=true)
-
-</div>
-
----
-
-## `uptime --year`
-
-> **2,226 contributions** in the last year — consistent, intentional, shipped.
-
 ---
 
 <div align="center">
